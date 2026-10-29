@@ -1,0 +1,18 @@
+{
+  "options": { "accent": "blue" },
+  "cards": [
+    { "layout": "C01", "title": "一只水壶\n[三分钟]烧开", "sub": "示例产品 · 数据仅作排版演示", "image": "assets/kettle.png" },
+    { "layout": "N02", "title": "烧一壶水\n[要多久]",
+      "numbers": [ { "label": "容量", "value": "1.7", "unit": "升", "title": "一家人够用", "note": "一次烧开四到五杯" },
+                   { "label": "烧开", "value": "3", "unit": "分钟", "title": "早上不用等", "note": "常温水，满壶" } ] },
+    { "layout": "X01", "title": "用起来\n[省心]在哪",
+      "cells": [ { "icon": "thermometer", "t": "四档控温", "d": "泡茶、冲奶各有一档" },
+                 { "icon": "power", "t": "干烧断电", "d": "忘了也不怕" },
+                 { "icon": "drop", "t": "一体内胆", "d": "没有死角，好清洗" },
+                 { "icon": "speaker-slash", "t": "安静", "d": "夜里烧水不吵人" } ] },
+    { "layout": "G01", "products": [
+        { "name": "电水壶", "points": "1.7 升、四档控温", "image": "assets/kettle.png" },
+        { "name": "[铸铁]炖锅", "points": "24 厘米、可进烤箱", "image": "assets/pot.png" } ] },
+    { "layout": "T04", "title": "买之前\n[看这几项]", "items": [ "容量够不够一家人", "内胆是不是一体", "有没有干烧断电", "控温有几档" ] }
+  ]
+}

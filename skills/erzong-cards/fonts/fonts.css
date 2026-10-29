@@ -1,0 +1,6 @@
+/* 随包字体（SIL OFL 1.1，见 OFL.txt）。出图只用这里的字体，保证 Windows / Mac / 云端效果一致。 */
+@font-face{font-family:"EZ Inter";font-weight:400;src:url("Inter-Regular.woff") format("woff")}
+@font-face{font-family:"EZ Inter";font-weight:600 700;src:url("Inter-SemiBold.woff") format("woff")}
+@font-face{font-family:"EZ Sans SC";font-weight:400;src:url("NotoSansSC-Regular.woff") format("woff")}
+@font-face{font-family:"EZ Sans SC";font-weight:600 700;src:url("NotoSansSC-Bold.woff") format("woff")}
+@font-face{font-family:"EZ Serif SC";font-weight:400 700;src:url("NotoSerifSC-SemiBold.woff") format("woff")}

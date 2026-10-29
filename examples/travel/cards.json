@@ -1,0 +1,66 @@
+{
+  "options": {
+    "dots": false
+  },
+  "cards": [
+    {
+      "layout": "I01",
+      "mode": "full",
+      "font": "serif",
+      "title": "秋天的\n最后一条小路\n|the long way home|",
+      "photo": {
+        "src": "assets/meadow.jpg",
+        "pos": "64% 50%"
+      },
+      "pos": "top"
+    },
+    {
+      "layout": "I01",
+      "mode": "bleed",
+      "font": "serif",
+      "title": "走得慢一点\n才看得见",
+      "body": "傍晚的光斜着照过来，一棵树把路分成了两半。",
+      "photo": "assets/meadow.jpg"
+    },
+    {
+      "layout": "I02",
+      "font": "serif",
+      "title": "这个秋天\n收集的小事",
+      "photos": [
+        {
+          "src": "assets/geese.jpg",
+          "cap": "周一 · 江边"
+        },
+        {
+          "src": "assets/crane.jpg",
+          "cap": "周三 · 桌上",
+          "pos": "62% 50%"
+        },
+        {
+          "src": "assets/carnation.jpg",
+          "cap": "周五 · 花店",
+          "pos": "50% 30%"
+        }
+      ]
+    },
+    {
+      "layout": "I01",
+      "mode": "note",
+      "photo": {
+        "src": "assets/crane.jpg",
+        "pos": "70% 50%"
+      },
+      "meta": "家里 · 周日下午",
+      "icon": "house",
+      "title": "折了一下午纸鹤，心静下来了"
+    },
+    {
+      "layout": "I04",
+      "count": 2,
+      "photo": "assets/geese.jpg",
+      "title": "一起\n向南飞",
+      "pos": "top",
+      "font": "serif"
+    }
+  ]
+}

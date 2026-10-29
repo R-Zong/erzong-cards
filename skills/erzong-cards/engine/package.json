@@ -1,0 +1,10 @@
+{
+  "name": "erzong-cards-engine",
+  "version": "0.3.0",
+  "private": true,
+  "description": "二宗卡片出图引擎：用本机浏览器（Edge / Chrome）把卡片渲染成 PNG",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "playwright-core": "^1.48.0"
+  }
+}

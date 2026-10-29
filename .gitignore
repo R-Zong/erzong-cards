@@ -1,0 +1,4 @@
+node_modules/
+**/预览.html
+.DS_Store
+Thumbs.db
