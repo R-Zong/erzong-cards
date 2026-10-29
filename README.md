@@ -1,5 +1,6 @@
 # 二宗卡片 · 苹果风小红书图文 / 公众号贴图
 
+![GitHub stars](https://img.shields.io/github/stars/R-Zong/erzong-cards?style=flat-square)
 ![License](https://img.shields.io/badge/License-Apache_2.0-0066CC?style=flat-square)
 ![Size](https://img.shields.io/badge/size-3%3A4_1080x1440-1D1D1F?style=flat-square)
 ![Layouts](https://img.shields.io/badge/layouts-27-6E6E73?style=flat-square)
